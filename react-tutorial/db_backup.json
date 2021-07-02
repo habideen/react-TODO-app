@@ -1,0 +1,111 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "item": "Send a file down to Mexico",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "item": "Discuss Abidgan Project with Tola",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "item": "Assign duties to workers on Datsun Farmland",
+      "isCompleted": true
+    },
+    {
+      "id": 4,
+      "item": "Dissolve 2020 Contribution with AJEO",
+      "isCompleted": false
+    },
+    {
+      "id": 5,
+      "item": "Submit Proposal and Quotation for Danlax Agrc Farm",
+      "isCompleted": true
+    },
+    {
+      "item": "Send a video proof of my previous works to cyntheman on Fiverr",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "item": "I have to take a deep rest today",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "item": "I have nothing to do",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "item": "I dont think I have something to do",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "item": "I dont think I have something to do",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "item": "I dont think I have something to do",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "item": "okay",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "item": "Tell me",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "item": "teller",
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "item": "hhg",
+      "isCompleted": false,
+      "id": 15
+    },
+    {
+      "item": "HEllo World",
+      "isCompleted": false,
+      "id": 16
+    },
+    {
+      "item": "fgdfgsf",
+      "isCompleted": false,
+      "id": 17
+    },
+    {
+      "item": "1111111111111",
+      "isCompleted": false,
+      "id": 18
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
